@@ -1,0 +1,16 @@
+.parent
+{
+    height: 400px;
+    width: 300px;
+    border: 1px solid;
+    background-image: url('../../assets/JavaScript-Logo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+button
+{
+    height: 45px;
+    width: 301px;
+    font-size: larger;
+}
